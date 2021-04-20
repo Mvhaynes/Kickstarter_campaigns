@@ -1,6 +1,6 @@
 # Kickstarter-campaigns
 
-Kickstarter campaign analysis that genereates insight through tables, graphs, and statistical summaries. 
+Kickstarter campaign analysis that generates insight through tables, graphs, and statistical summaries. 
 
 ## State and Percent Funded
 
